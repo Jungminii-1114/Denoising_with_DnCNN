@@ -26,9 +26,11 @@ The Project uses the **BSDS500** dataset downloaded directly from Kaggle.
 - - - - -
 ## DnCNN-S (DnCNN with Scheduler Comparison) Results
 <img width="583" height="253" alt="스크린샷 2026-02-04 오후 5 08 55" src="https://github.com/user-attachments/assets/e2ba099c-4ccd-4fc8-976a-a8d3b3ed29b9" />
+
 fig. 1. Scheduler Comparison Results of DnCNN-S
 
 <img width="718" height="445" alt="DnCNN-S_BestResult" src="https://github.com/user-attachments/assets/e8ae3fe7-d785-4c9f-878e-8c56fbf277d9" />
+
 fig. 2. Best-5 Results of DnCNN-S
 
 
