@@ -43,7 +43,7 @@ The Project uses the **BSDS500** dataset downloaded directly from Kaggle.
 
 <img width="586" height="154" alt="CDnCNN-S" src="https://github.com/user-attachments/assets/6bc05932-d508-4ebe-9ced-f2275b9d4461" />
 
-<b>fig. 4. Result of Test sample</b>
+<b>fig. 4. Result of Test sample patches </b>
 
 <img width="591" height="573" alt="스크린샷 2026-02-04 오후 6 00 31" src="https://github.com/user-attachments/assets/e6ca6d89-79e4-46c6-8ba7-8528851027ea" />
 
@@ -56,3 +56,4 @@ The Project uses the **BSDS500** dataset downloaded directly from Kaggle.
 
 <img width="4733" height="959" alt="best_case_result-2" src="https://github.com/user-attachments/assets/c0a8e05f-715a-40ff-909d-e6fb8863dab5" />
 
+<b>fig. 5. Results of Test Images </b>
