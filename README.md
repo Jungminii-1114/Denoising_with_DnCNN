@@ -23,3 +23,10 @@ The Project uses the **BSDS500** dataset downloaded directly from Kaggle.
 - Image visualization for training and validation samples.
 - Implementation of the DnCNN architecture (implied).
 
+- - - - -
+## DnCNN-S (DnCNN with Scheduler Comparison) Results
+<img width="583" height="253" alt="스크린샷 2026-02-04 오후 5 08 55" src="https://github.com/user-attachments/assets/e2ba099c-4ccd-4fc8-976a-a8d3b3ed29b9" />
+
+<img width="718" height="445" alt="DnCNN-S_BestResult" src="https://github.com/user-attachments/assets/e8ae3fe7-d785-4c9f-878e-8c56fbf277d9" />
+
+
