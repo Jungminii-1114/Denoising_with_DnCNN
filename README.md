@@ -51,9 +51,10 @@ The Project uses the **BSDS500** dataset downloaded directly from Kaggle.
 
 <img width="4742" height="963" alt="best_case_result-2 복사본 2" src="https://github.com/user-attachments/assets/ddfb7644-fb17-4eee-b29f-0867b4bd2726" />
 
-<img width="4739" height="936" alt="best_case_result-2 복사본 3" src="https://github.com/user-attachments/assets/aea79812-97f5-4529-a58c-f6b1c0289349" />
+<img width="583" height="126" alt="스크린샷 2026-02-06 오후 1 24 32" src="https://github.com/user-attachments/assets/963f7e67-ae42-4973-b35b-4ee8ac351e3a" />
 
 
-<img width="4733" height="959" alt="best_case_result-2" src="https://github.com/user-attachments/assets/c0a8e05f-715a-40ff-909d-e6fb8863dab5" />
+<img width="561" height="188" alt="스크린샷 2026-02-06 오후 1 23 31" src="https://github.com/user-attachments/assets/6c4cc833-2e8d-4adc-ac84-146dd7214af8" />
+
 
 <b>fig. 5. Results of Test Images </b>
