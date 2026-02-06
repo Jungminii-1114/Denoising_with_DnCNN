@@ -35,7 +35,8 @@ The Project uses the **BSDS500** dataset downloaded directly from Kaggle.
 
 - - - - -
 ## CDnCNN-B (DnCNN with Colord Blind Noise Image + Scheduler Comparison) Results
-<img width="452" height="178" alt="CDnCNN-B_batchsize8" src="https://github.com/user-attachments/assets/79330ce1-60b9-49f9-8805-45f9fc7299d5" />
+
+<img width="583" height="229" alt="CDnCNN_epoch100" src="https://github.com/user-attachments/assets/d479a341-1389-427c-8f4a-3b42ac365ef1" />
 
 
 
