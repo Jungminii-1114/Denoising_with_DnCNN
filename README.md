@@ -1,4 +1,7 @@
 # DnCNN Image Denoising with PyTorch
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![CV](https://img.shields.io/badge/Computer_Vision-Image_Restoration-success?style=for-the-badge)
+
+## Project Overview
 This repository contains a PyTorch impolementation of **DnCNN (Denoising Convolutional Neural Network)** for image denoising tasks.
 The project utilizes the **BSDS500 (Berkeley Segmentation Dataset 500)** to train and validate the model.
 
